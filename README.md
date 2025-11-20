@@ -7,4 +7,7 @@ the menu function controls the flow of the programme based on user inputs
 
 modules used-pickle(to store write and read data)
             -tabulate(to print data in the terminal which is easily readable)
-            -time(ti delay the printing of some statements)
+            -time(to delay the printing of some statements)
+Startup procedure-
+install tablulate from the terminal - pip install tabulate
+run the executable file
